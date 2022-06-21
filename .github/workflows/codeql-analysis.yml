@@ -23,7 +23,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: ms-DOS
+    runs-on: late-ubuntu
     permissions:
       actions: read
       contents: read
