@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1655786284 source:c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\main.cpp
+	<iostream>
+	<ctime>
+	"library/mapa.h"
+
+1655760566 c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\library\mapa.h
+	"casilleros.h"
+
+1655618442 c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\library\casilleros.h
+	<string>
+	<list>
+	"enemigo.h"
+	"item.h"
+	"jugador.h"
+
+1655687013 c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\library\enemigo.h
+
+1655689451 c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\library\item.h
+
+1655690513 c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\library\jugador.h
+	<list>
+
+1655690921 source:c:\users\dingo pc\onedrive\programming\games\la-fortaleza-de-gonid\icono.rc
+
+1655698105 source:c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\main.cpp
+	<iostream>
+	"library/mapa.h"
+
+1655760566 c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\library\mapa.h
+	"casilleros.h"
+
+1655618442 c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\library\casilleros.h
+	<string>
+	<list>
+	"enemigo.h"
+	"item.h"
+	"jugador.h"
+
+1655687013 c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\library\enemigo.h
+
+1655689451 c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\library\item.h
+
+1655690513 c:\users\dingo\onedrive\programming\games\la-fortaleza-de-gonid\library\jugador.h
+	<list>
+

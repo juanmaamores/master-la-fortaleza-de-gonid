@@ -1,0 +1,15 @@
+mejoras/observaciones: 
+*Que en vez de ser valores fijos, que sean RNG en base al equipamiento.
+Tipo que el arma haga 20-30 daño, y la armadura reduzca x cantidad de daño.
+
+*Los enemigos en si no cargan items, pero si pueden generar daño, y tener blindaje. 
+Aunque no se curan.
+
+*Los items que el jugador toma no pueden ser quitados del inventario.
+
+*Se podría agregar un contador de turnos y un sistema de puntaje.
+
+*Agregar una pantalla de inicio previa que salude al jugador y le pregunte
+si quiere leer las intrucciones.
+
+*Los items son agarrados todos a la vez y no uno por uno indicado por el jugador.

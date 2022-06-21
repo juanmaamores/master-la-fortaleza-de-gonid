@@ -1,0 +1,12 @@
+comandos:
+n 		// moverse al norte.
+s 		// moverse al sur.
+e 		// moverse al este.
+o 		// moverse al oeste.
+mirar 		// obtener otra descripcion de la sala.
+agarrar 	// agarrar los objetos de la sala.
+inventario 	// ver inventario.
+estatus		// ver puntos de salud, puntos de ataque y blindaje del jugador.
+atacar 		// entrar en "modo ataque" o atacar.
+curarme 	// curarte dentro del "modo ataque".
+
