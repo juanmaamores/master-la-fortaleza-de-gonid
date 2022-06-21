@@ -23,7 +23,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: os-shell
+    runs-on: ms-DOS
     permissions:
       actions: read
       contents: read
